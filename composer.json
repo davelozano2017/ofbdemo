@@ -1,16 +1,8 @@
-{
-    "repositories": [
-        {
-            "type":"package",
-            "package": {
-              "name": "ofbdemo",
-              "version":"master",
-              "source": {
-                  "url": "https://github.com/davelozano2017/ofbdemo.git",
-                  "type": "git",
-                  "reference":"master"
-                }
-            }
-        }
-    ]
+{   
+    "name": "davelozano2017/ofbdemo",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": "^7.2"
+    }
 }
+
