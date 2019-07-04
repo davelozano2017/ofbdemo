@@ -1,8 +1,15 @@
-{   
+{
     "name": "davelozano2017/ofbdemo",
-    "description": "A short description of what your package does",
-    "require": {
-        "php": "^7.2"
-    }
+    "description": "The Simple PHP is lightweight web application framework.",
+    "keywords": ["Wordpress"],
+    "homepage": "https://github.com/davelozano2017/ofbdemo",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "John David Lozano",
+            "email": "lozanojohndavid@gmail.com",
+            "role": "Creator"
+        }
+    ]
 }
-
