@@ -1,10 +1,10 @@
 {
     "name": "davelozano2017/ofbdemo",
-    "description": "The Simple PHP is lightweight web application framework.",
+    "description": "Wordpress.",
     "keywords": ["Wordpress"],
     "homepage": "https://github.com/davelozano2017/ofbdemo",
     "license": "MIT",
-    "type": "project",
+    "type": "package",
     "authors": [
         {
             "name": "John David Lozano",
