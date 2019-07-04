@@ -5,6 +5,7 @@
     "homepage": "https://github.com/davelozano2017/ofbdemo",
     "license": "MIT",
     "type": "package",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "John David Lozano",
